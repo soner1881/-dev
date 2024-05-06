@@ -1,32 +1,31 @@
-# Kullanıcı Kılavuzu: Etkinlik Satın Alma Sistemi
+### Kullanıcı Kılavuzu
 
-Bu kılavuz, etkinlik satın alma sisteminin nasıl kullanılacağını adım adım açıklar. Sistemi etkin bir şekilde kullanabilmeniz için lütfen aşağıdaki adımları dikkatlice takip edin.
+1. **Giriş Ekranı**
+   - Uygulamayı başlatın ve giriş ekranında kullanıcı adı ve şifrenizi girin.
+   - Varsayılan kullanıcı adı: admin
+   - Varsayılan şifre: admin
+   - "Giriş" butonuna tıklayarak ana sayfaya geçiş yapın.
 
-## Adım 1: Giriş Yapma veya Kayıt Olma
+2. **Ana Sayfa**
+   - Ana sayfada mevcut olan filmleri görebilirsiniz.
+   - "Filmler" menüsünden film seçebilir ve IMDB puanını güncelleyebilirsiniz.
+   - "Yorumları Görüntüle" butonuyla filmle ilgili yapılan yorumları görebilirsiniz.
+   - "Yorum Yap" butonuyla seçtiğiniz filme yorum yapabilirsiniz.
+   - "Film Ekle" butonuyla yeni bir film ekleyebilirsiniz.
+   - "Liste Oluştur" bölümünden filmleri seçerek yeni bir liste oluşturabilirsiniz.
+   - "İzleme Geçmişi" bölümünde izlediğiniz filmleri görebilirsiniz.
 
-1. Sisteme giriş yapmak için kullanıcı adı ve şifrenizle giriş yapın.
-2. Hesabınız yoksa, "Kayıt Ol" veya "Hesap Oluştur" seçeneğini kullanarak yeni bir hesap oluşturun.
+3. **Yorum Yap Dialog**
+   - Yorum yapmak için "Yorum Yap" butonuna tıklayın.
+   - Film seçin, adınızı ve yorumunuzu girin.
+   - "Yorum Yap" butonuna tıklayarak yorumunuzu kaydedin.
 
-## Adım 2: Etkinlikleri Görüntüleme
+4. **Film Ekle Dialog**
+   - Yeni bir film eklemek için "Film Ekle" butonuna tıklayın.
+   - Film adı ve puanını girin.
+   - "Film Ekle" butonuna tıklayarak yeni filmi sisteme ekleyin.
 
-1. Ana sayfada veya menüde bulunan "Etkinlikler" sekmesine tıklayın.
-2. Açılan sayfada mevcut etkinlikleri listeleyin.
-
-## Adım 3: Etkinlik Seçme ve Satın Alma
-
-1. Listelenen etkinlikler arasından satın almak istediğiniz etkinliği seçin.
-2. Seçtiğiniz etkinliğin detaylarını görüntüleyin ve satın alma işlemi için "Satın Al" veya "Bilet Satın Al" gibi bir seçenek bulun.
-3. Gerekli bilgileri (isim, e-posta, telefon) doldurun ve satın alma işlemini tamamlayın.
-
-## Adım 4: Satın Alınan Biletleri Görüntüleme
-
-1. Ana sayfada veya menüde bulunan "Satın Alınan Biletler" veya "Biletlerim" gibi bir seçenek bulun.
-2. Bu bölümde satın aldığınız biletlerin listesini görebilir ve detaylarını inceleyebilirsiniz.
-
-## Adım 5: Profil Bilgileri ve Ayarlar
-
-1. Profil bilgilerinizi görüntülemek veya düzenlemek için "Profil" veya "Hesap Ayarları" gibi bir seçenek bulun.
-2. Bu bölümde kişisel bilgilerinizi güncelleyebilir veya şifrenizi değiştirebilirsiniz.
-
----
-
+5. **Liste Oluştur**
+   - Yeni bir liste oluşturmak için "Liste Oluştur" butonuna tıklayın.
+   - Bir liste adı ve filmleri seçin.
+   - "Liste Oluştur" butonuna tıklayarak yeni listeyi oluşturun.
