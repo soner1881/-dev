@@ -24,13 +24,9 @@ Uygulamayı başlatmak için uygulama dosyasını çalıştırın. Uygulama baş
 
 - Otel seçimi yapıldıktan sonra, **"Plan Ekle"** butonuna tıklayın. Bu, seçtiğiniz rotayı ve otelleri içeren bir planın detaylarını görüntüleyecektir.
 
-- Plan detaylarını kontrol ettikten sonra, **"Kabul Ediyorum"** butonuna tıklayarak planı kabul edebilirsiniz. 
+- Plan detaylarını kontrol ettikten sonra, **"YES"** butonuna tıklayarak planı kabul edebilirsiniz. 
 
-- **"Rota Seçmeye Geri Dön"** butonuyla plan yapmayı durdurup, rota seçimine geri dönebilirsiniz.
 
-## 5. Plan Tamamlandı Bildirimi
 
-- Planı kabul ettiğinizde, uygulama size planınızın başarıyla tamamlandığına dair bir bildirim gösterecektir. **"Tamam"** butonuna tıklayarak bu bildirimi kapatın.
 
----
 
