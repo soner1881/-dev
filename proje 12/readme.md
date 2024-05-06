@@ -12,7 +12,7 @@ Uygulama başlatıldığında karşınıza kullanıcı bilgileri giriş ekranı 
 - **Yaş:** Yaşınızı bu alana girin.
 - **Cinsiyet:** Cinsiyetinizi bu alandan seçin.
 
-![Başlangıç Ekranı](start_screen.png)
+
 
 ---
 
@@ -23,7 +23,7 @@ Kullanıcı bilgilerini girdikten sonra sağlık verilerinizi gireceğiniz bir a
 - **Boy (cm):** Boyunuzu santimetre cinsinden girin.
 - **Kilo (kg):** Kilogram cinsinden kilonuzu girin.
 
-![Sağlık Verisi Girişi](health_input.png)
+
 
 ---
 
@@ -37,7 +37,7 @@ Egzersiz girişi için örnek format:
 Egzersiz Adı: Koşu, Süre: 30 dakika, Tekrar Sayısı: 3
 ```
 
-![Egzersiz Girişi](exercise_input.png)
+
 
 ---
 
@@ -45,7 +45,7 @@ Egzersiz Adı: Koşu, Süre: 30 dakika, Tekrar Sayısı: 3
 
 Tüm bilgileri girdikten sonra "Kaydet" butonuna tıklamanız gerekmektedir. Bu işlem verilerinizi kaydedecek ve bir bilgi penceresi ile bu durumu size bildirecektir.
 
-![Kaydet Butonu](save_button.png)
+
 
 ---
 
@@ -53,7 +53,7 @@ Tüm bilgileri girdikten sonra "Kaydet" butonuna tıklamanız gerekmektedir. Bu 
 
 "Verileri Görüntüle" butonuna tıkladığınızda, kaydedilmiş olan sağlık verilerinizi görebileceğiniz bir pencere açılacaktır.
 
-![Görüntüle Butonu](view_button.png)
+
 
 ---
 
@@ -61,7 +61,7 @@ Tüm bilgileri girdikten sonra "Kaydet" butonuna tıklamanız gerekmektedir. Bu 
 
 Veri görüntüleme penceresinde bulunan "Kapat" butonuna tıkladığınızda, pencere kapatılacaktır ve ana uygulama ekranına geri döneceksiniz.
 
-![Kapat Butonu](close_button.png)
+
 
 ---
 
